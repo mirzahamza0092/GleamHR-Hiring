@@ -1,0 +1,145 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_keyboard_visibility (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - just_audio (0.0.1):
+    - Flutter
+  - lecle_downloads_path_provider (0.0.1):
+    - Flutter
+  - local_auth_ios (0.0.1):
+    - Flutter
+  - onesignal_flutter (3.5.1):
+    - Flutter
+    - OneSignalXCFramework (= 3.12.4)
+  - OneSignalXCFramework (3.12.4):
+    - OneSignalXCFramework/OneSignalCore (= 3.12.4)
+    - OneSignalXCFramework/OneSignalExtension (= 3.12.4)
+    - OneSignalXCFramework/OneSignalOutcomes (= 3.12.4)
+  - OneSignalXCFramework/OneSignalCore (3.12.4)
+  - OneSignalXCFramework/OneSignalExtension (3.12.4):
+    - OneSignalXCFramework/OneSignalCore
+    - OneSignalXCFramework/OneSignalOutcomes
+  - OneSignalXCFramework/OneSignalOutcomes (3.12.4):
+    - OneSignalXCFramework/OneSignalCore
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.1.1):
+    - Flutter
+  - Sentry/HybridSDK (8.15.2):
+    - SentryPrivate (= 8.15.2)
+  - sentry_flutter (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - Sentry/HybridSDK (= 8.15.2)
+  - SentryPrivate (8.15.2)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite (0.0.3):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+  - wakelock_plus (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_keyboard_visibility (from `.symlinks/plugins/flutter_keyboard_visibility/ios`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - lecle_downloads_path_provider (from `.symlinks/plugins/lecle_downloads_path_provider/ios`)
+  - local_auth_ios (from `.symlinks/plugins/local_auth_ios/ios`)
+  - onesignal_flutter (from `.symlinks/plugins/onesignal_flutter/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - sentry_flutter (from `.symlinks/plugins/sentry_flutter/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - OneSignalXCFramework
+    - Sentry
+    - SentryPrivate
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  Flutter:
+    :path: Flutter
+  flutter_keyboard_visibility:
+    :path: ".symlinks/plugins/flutter_keyboard_visibility/ios"
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  lecle_downloads_path_provider:
+    :path: ".symlinks/plugins/lecle_downloads_path_provider/ios"
+  local_auth_ios:
+    :path: ".symlinks/plugins/local_auth_ios/ios"
+  onesignal_flutter:
+    :path: ".symlinks/plugins/onesignal_flutter/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  sentry_flutter:
+    :path: ".symlinks/plugins/sentry_flutter/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/ios"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 4f3e461722055d21515cf3261b64c973c062f345
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_keyboard_visibility: 0339d06371254c3eb25eeb90ba8d17dca8f9c069
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  lecle_downloads_path_provider: b24e71004ad61a26c7e4422373627acdb01d9251
+  local_auth_ios: c6cf091ded637a88f24f86a8875d8b0f526e2605
+  onesignal_flutter: b8ac01bc3ebe47e798d7d775455c3a9b5b84f1c5
+  OneSignalXCFramework: 087934ab0d4d7445fcf1c015c7c782359e26c020
+  package_info_plus: 115f4ad11e0698c8c1c5d8a689390df880f47e85
+  path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
+  permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
+  Sentry: 6f5742b4c47c17c9adcf265f6f328cf4a0ed1923
+  sentry_flutter: 2c309a1d4b45e59d02cfa15795705687f1e2081b
+  SentryPrivate: b2f7996f37781080f04a946eb4e377ff63c64195
+  shared_preferences_foundation: 5b919d13b803cadd15ed2dc053125c68730e5126
+  sqflite: 31f7eba61e3074736dff8807a9b41581e4f7f15a
+  url_launcher_ios: 68d46cc9766d0c41dbdc884310529557e3cd7a86
+  video_player_avfoundation: 81e49bb3d9fb63dccf9fa0f6d877dc3ddbeac126
+  wakelock_plus: 8b09852c8876491e4b6d179e17dfe2a0b5f60d47
+  webview_flutter_wkwebview: 2e2d318f21a5e036e2c3f26171342e95908bd60a
+
+PODFILE CHECKSUM: 6b9eb94e9f98a329f2ef624b852a6e42d090af2b
+
+COCOAPODS: 1.12.1
